@@ -7,12 +7,12 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Furniture Store Interface - Advanced Programming course Project (Python)
+### 🔹 Furniture Store Interface - Advanced Programming course project (Python)
 Collaborative university project focused on OOP, problem-solving and algorithmic design.  
 **Role:** Contributor – implemented core functionalities and project structure.  
 🔗 https://github.com/Hadas-Schneider/Advanced-programming-project
 
-### 🔹 TranSpeckle – Vision Transformer Reconstruction Models (PyTorch and TensorFlow)
+### 🔹 TranSpeckle – Vision Transformer Reconstruction models of speckle patterns (PyTorch and TensorFlow)
 Research-based project involving ViT, CNN, U-Net hybrids, Optuna tuning and PyTorch implementations  
 for biomedical speckle pattern reconstruction.  
 🔗 
